@@ -1,0 +1,338 @@
+[
+  {
+    "id": "LAP-001",
+    "category": "Laptops",
+    "name": "Dell Latitude 5540",
+    "brand": "Dell",
+    "price_usd": 1099.0,
+    "specs": {
+      "cpu": "Intel Core i5-1335U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen": "15.6\" FHD"
+    },
+    "vendor": "Dell Business Store",
+    "rating": 4.4,
+    "warranty_years": 3,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "LAP-002",
+    "category": "Laptops",
+    "name": "HP ProBook 450 G10",
+    "brand": "HP",
+    "price_usd": 979.0,
+    "specs": {
+      "cpu": "Intel Core i5-1335U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen": "15.6\" FHD"
+    },
+    "vendor": "HP Store",
+    "rating": 4.3,
+    "warranty_years": 2,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "LAP-003",
+    "category": "Laptops",
+    "name": "Lenovo ThinkPad E14 Gen 5",
+    "brand": "Lenovo",
+    "price_usd": 949.0,
+    "specs": {
+      "cpu": "AMD Ryzen 5 7530U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen": "14\" FHD"
+    },
+    "vendor": "Lenovo Direct",
+    "rating": 4.5,
+    "warranty_years": 3,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "LAP-004",
+    "category": "Laptops",
+    "name": "Dell Latitude 3540",
+    "brand": "Dell",
+    "price_usd": 799.0,
+    "specs": {
+      "cpu": "Intel Core i5-1235U",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "screen": "15.6\" FHD"
+    },
+    "vendor": "Dell Business Store",
+    "rating": 4.0,
+    "warranty_years": 1,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "LAP-005",
+    "category": "Laptops",
+    "name": "ASUS ExpertBook B1400",
+    "brand": "ASUS",
+    "price_usd": 869.0,
+    "specs": {
+      "cpu": "Intel Core i5-1240P",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen": "14\" FHD"
+    },
+    "vendor": "ASUS Business",
+    "rating": 4.2,
+    "warranty_years": 2,
+    "stock_status": "Limited Stock"
+  },
+  {
+    "id": "SRV-001",
+    "category": "Servers",
+    "name": "Dell PowerEdge R450",
+    "brand": "Dell",
+    "price_usd": 5299.0,
+    "specs": {
+      "cpu": "Intel Xeon Silver 4310",
+      "ram": "32GB",
+      "storage": "2x 960GB SSD",
+      "form_factor": "Rack 1U"
+    },
+    "vendor": "Dell Enterprise",
+    "rating": 4.6,
+    "warranty_years": 3,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "SRV-002",
+    "category": "Servers",
+    "name": "HPE ProLiant DL380 Gen11",
+    "brand": "HPE",
+    "price_usd": 6499.0,
+    "specs": {
+      "cpu": "Intel Xeon Silver 4410Y",
+      "ram": "32GB",
+      "storage": "2x 960GB SSD",
+      "form_factor": "Rack 2U"
+    },
+    "vendor": "HPE Store",
+    "rating": 4.7,
+    "warranty_years": 3,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "SRV-003",
+    "category": "Servers",
+    "name": "Lenovo ThinkSystem SR630 V3",
+    "brand": "Lenovo",
+    "price_usd": 5899.0,
+    "specs": {
+      "cpu": "Intel Xeon Silver 4410Y",
+      "ram": "32GB",
+      "storage": "2x 960GB SSD",
+      "form_factor": "Rack 1U"
+    },
+    "vendor": "Lenovo Enterprise",
+    "rating": 4.5,
+    "warranty_years": 3,
+    "stock_status": "Limited Stock"
+  },
+  {
+    "id": "MON-001",
+    "category": "Monitors",
+    "name": "Dell P2423D",
+    "brand": "Dell",
+    "price_usd": 269.0,
+    "specs": {
+      "size": "24\"",
+      "resolution": "2560x1440",
+      "panel": "IPS"
+    },
+    "vendor": "Dell Business Store",
+    "rating": 4.5,
+    "warranty_years": 3,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "MON-002",
+    "category": "Monitors",
+    "name": "HP E24 G5",
+    "brand": "HP",
+    "price_usd": 219.0,
+    "specs": {
+      "size": "24\"",
+      "resolution": "1920x1080",
+      "panel": "IPS"
+    },
+    "vendor": "HP Store",
+    "rating": 4.2,
+    "warranty_years": 3,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "MON-003",
+    "category": "Monitors",
+    "name": "Samsung S27A400",
+    "brand": "Samsung",
+    "price_usd": 189.0,
+    "specs": {
+      "size": "27\"",
+      "resolution": "1920x1080",
+      "panel": "IPS"
+    },
+    "vendor": "Samsung Business",
+    "rating": 4.3,
+    "warranty_years": 2,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "NET-001",
+    "category": "Networking",
+    "name": "Cisco Catalyst 1000 24-port",
+    "brand": "Cisco",
+    "price_usd": 899.0,
+    "specs": {
+      "ports": "24x GbE + 4x SFP",
+      "type": "Managed Switch"
+    },
+    "vendor": "Cisco Partner Store",
+    "rating": 4.7,
+    "warranty_years": 3,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "NET-002",
+    "category": "Networking",
+    "name": "TP-Link TL-SG3428",
+    "brand": "TP-Link",
+    "price_usd": 349.0,
+    "specs": {
+      "ports": "24x GbE + 4x SFP",
+      "type": "Managed Switch"
+    },
+    "vendor": "TP-Link Store",
+    "rating": 4.3,
+    "warranty_years": 5,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "NET-003",
+    "category": "Networking",
+    "name": "Ubiquiti UniFi Switch Pro 24",
+    "brand": "Ubiquiti",
+    "price_usd": 579.0,
+    "specs": {
+      "ports": "24x GbE + 2x SFP+",
+      "type": "Managed Switch"
+    },
+    "vendor": "Ubiquiti Store",
+    "rating": 4.6,
+    "warranty_years": 1,
+    "stock_status": "Limited Stock"
+  },
+  {
+    "id": "PRN-001",
+    "category": "Printers",
+    "name": "HP LaserJet Pro MFP 4103fdw",
+    "brand": "HP",
+    "price_usd": 429.0,
+    "specs": {
+      "type": "Mono Laser MFP",
+      "speed": "40 ppm",
+      "connectivity": "Wi-Fi, Ethernet"
+    },
+    "vendor": "HP Store",
+    "rating": 4.5,
+    "warranty_years": 1,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "PRN-002",
+    "category": "Printers",
+    "name": "Canon imageCLASS MF465dw",
+    "brand": "Canon",
+    "price_usd": 349.0,
+    "specs": {
+      "type": "Mono Laser MFP",
+      "speed": "40 ppm",
+      "connectivity": "Wi-Fi, Ethernet"
+    },
+    "vendor": "Canon Business",
+    "rating": 4.3,
+    "warranty_years": 1,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "CHR-001",
+    "category": "Office Furniture",
+    "name": "Herman Miller Sayl Chair",
+    "brand": "Herman Miller",
+    "price_usd": 595.0,
+    "specs": {
+      "type": "Ergonomic Office Chair",
+      "material": "Mesh back"
+    },
+    "vendor": "Herman Miller Store",
+    "rating": 4.6,
+    "warranty_years": 12,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "CHR-002",
+    "category": "Office Furniture",
+    "name": "IKEA Markus",
+    "brand": "IKEA",
+    "price_usd": 279.0,
+    "specs": {
+      "type": "Ergonomic Office Chair",
+      "material": "Mesh back"
+    },
+    "vendor": "IKEA Business",
+    "rating": 4.4,
+    "warranty_years": 10,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "SFT-001",
+    "category": "Software Licenses",
+    "name": "Microsoft 365 Business Standard",
+    "brand": "Microsoft",
+    "price_usd": 150.0,
+    "specs": {
+      "billing": "Per user / year",
+      "includes": "Office apps, Teams, 1TB OneDrive"
+    },
+    "vendor": "Microsoft Store",
+    "rating": 4.5,
+    "warranty_years": 0,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "SFT-002",
+    "category": "Software Licenses",
+    "name": "Google Workspace Business Standard",
+    "brand": "Google",
+    "price_usd": 144.0,
+    "specs": {
+      "billing": "Per user / year",
+      "includes": "Gmail, Docs, Meet, 2TB storage"
+    },
+    "vendor": "Google Store",
+    "rating": 4.4,
+    "warranty_years": 0,
+    "stock_status": "In Stock"
+  },
+  {
+    "id": "SFT-003",
+    "category": "Software Licenses",
+    "name": "Adobe Creative Cloud All Apps",
+    "brand": "Adobe",
+    "price_usd": 599.0,
+    "specs": {
+      "billing": "Per user / year",
+      "includes": "Full Creative Cloud suite"
+    },
+    "vendor": "Adobe Store",
+    "rating": 4.6,
+    "warranty_years": 0,
+    "stock_status": "In Stock"
+  }
+]
