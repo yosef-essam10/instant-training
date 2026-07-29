@@ -1,4 +1,0 @@
-streamlit>=1.37
-crewai>=0.83.0
-crewai-tools>=0.17.0
-pymongo>=4.8
