@@ -1,0 +1,8 @@
+streamlit==1.61.1
+crewai==1.14.4
+tavily-python==0.7.27
+pymongo==4.9.1
+python-dotenv
+groq
+beautifulsoup4
+requests

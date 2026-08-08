@@ -1,0 +1,9 @@
+{
+  "company": "ABC",
+  "budget": 1000,
+  "product": "Laptop",
+  "minimum_ram": "16GB",
+  "preferred_cpu": "Intel i7 or Ryzen 7",
+  "weight_price": 0.4,
+  "weight_specs": 0.6
+}
